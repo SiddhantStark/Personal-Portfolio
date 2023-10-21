@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import food from "../../Assets/Projects/Food.png";
 import editor from "../../Assets/Projects/Meetups.png";
 import summarizer from "../../Assets/Projects/Summarizer.png";
-import bitsOfCode from "../../Assets/Projects/Stack Overflow Clone.png";
+import bitsOfCode from "../../Assets/Projects/StackOverflowClone.png";
 
 function Projects() {
   return (
