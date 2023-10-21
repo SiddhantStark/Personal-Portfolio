@@ -6,9 +6,6 @@
   <img alt="Demo" src="./Images/readme-img1.png" />
 </div>
 
-<br/>
-
-
 ## Built With
 
 My personal portfolio <a href="h" target="_blank">siddhant.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
